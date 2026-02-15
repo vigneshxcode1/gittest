@@ -9,10 +9,10 @@ function App() {
 
   return (
     <>
-       <h1>sample update code 1</h1>
+      <h1>sample update code 1</h1>
 
-<h1>my updated code 2</h1>
-    <Sample/>
+      <h1>my updated code 2</h1>
+      <Sample />
     </>
   )
 }
