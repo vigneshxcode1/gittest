@@ -5,7 +5,7 @@ export const Sample = () => {
     <>
       <div>Sample</div>
     <div>updated by vicky</div>
-    dont change my code
+   <h1>dont change my code</h1> 
     </>
   
   )
